@@ -1,6 +1,6 @@
 .odd-num {
   background-color: #ffa7a7;
-  font-family: Verdana, DejaVa Sans, Geneva, Tahoma, sans-serif;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #even1-num {
@@ -13,4 +13,5 @@
 #even2-num {
   font-size: 24px;
   font-weight: bold;
+  background-color: greenyellow;
 }
